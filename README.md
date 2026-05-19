@@ -18,3 +18,23 @@
 6. 重回帰モデル構築
 7. RandomForestRegressorとの比較
 8. モデル結果の考察
+
+## 特徴量
+
+- 75歳以上割合
+- 介護施設密度
+- 一人当たり所得
+- 人口密度
+
+## 目的変数
+
+- 要介護認定率
+
+# 使用技術
+- Python
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+# 結果
