@@ -71,3 +71,21 @@
 - 市町村単位での分析
 - 時系列分析
 - 特徴量の変更・追加
+
+# ファイルの構成
+care-certification-analysis/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── care_certification_analysis.ipynb
+│
+├── outputs/
+│   └── figures/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
