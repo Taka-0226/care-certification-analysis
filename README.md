@@ -51,10 +51,9 @@
 　・都道府県名の統一
 　・不要列削除
 3.データ結合（merge）
-4.Exploratory Data Analysis（EDA）
-5.相関分析
-6.回帰モデル構築
-7.モデル評価
+4.相関分析
+5.回帰モデル構築
+6.モデル評価
 
 # 使用モデル
 線形回帰（Linear Regression）
