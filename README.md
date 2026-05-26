@@ -80,7 +80,6 @@
 
 # ファイルの構成
 care-certification-analysis/
-│
 ├── data/
 │   ├── raw/
 │   └── processed/
