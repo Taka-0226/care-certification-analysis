@@ -78,7 +78,7 @@
 - 時系列分析
 - 特徴量の変更・追加
 
-## ファイルの構成
+# ファイルの構成
 care-certification-analysis/
 │
 ├── data/
