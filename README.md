@@ -25,23 +25,23 @@
 
 # 主な使用指標
 　　　指標　　　　　　　　　　内容
--要介護認定率　　　　　　　目的変数
--７５歳以上人口割合　　　　高齢化指標
--介護施設密度　　　　　　　介護資源指標
--一人当たり所得　　　　　　経済指標
--人口密度　　　　　　　　　地域特性指標
+- 要介護認定率　　　　　　　目的変数
+- ７５歳以上人口割合　　　　高齢化指標
+- 介護施設密度　　　　　　　介護資源指標
+- 一人当たり所得　　　　　　経済指標
+- 人口密度　　　　　　　　　地域特性指標
 
 # 使用技術
 言語・分析環境
--Python
--Google Colab
+- Python
+- Google Colab
 ライブラリ
--pandas
--numpy
--matplotlib
--seaborn
--scikit-learn
--openpyxl
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- openpyxl
 
 # 分析の流れ
 
