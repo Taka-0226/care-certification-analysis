@@ -67,7 +67,7 @@
 介護認定率と75歳以上人口割合、人口密度には弱い正の相関がみられた。
 
 # 散布図
-![scatter](outputs/figures/the population aged 75 and over.png)
+![scatter](outputs/figures/the_population_aged_75_and_over.png)
 
 # 分析結果
 - 要介護認定率と75歳以上人口割合、人口密度には弱い正の相関がみられた。
