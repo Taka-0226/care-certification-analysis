@@ -65,6 +65,7 @@
 ![Heatmap](outputs/figures/heatmap.png)
 
 介護認定率と75歳以上人口割合、人口密度には弱い正の相関がみられた。
+一方で、強い相関を示す変数は少なく、単独指標のみで認定率を十分に説明することは難しいことが示唆された。
 
 # 散布図
 ![scatter](outputs/figures/the_population_aged_75_and_over.png)
